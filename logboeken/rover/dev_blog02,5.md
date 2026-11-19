@@ -1,4 +1,4 @@
-cam_hight = 146cm
+ cam_hight = 146cm
 
 cam dist from center screen = 8,5cm 20cm
 
