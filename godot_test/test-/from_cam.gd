@@ -7,6 +7,7 @@ var robot_position := Vector2.ZERO
 var robot_id := -1
 var marker_detected := false
 
+
 var camera_width := 640.0
 var camera_height := 480.0
 
