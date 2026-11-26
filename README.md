@@ -1,2 +1,2 @@
 test:
-[a relative link](devblog04.md)
+[a relative link](logboeken/rover/devblog04.md)
