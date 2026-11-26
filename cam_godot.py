@@ -9,7 +9,7 @@ GODOT_ADDRESS = ("127.0.0.1", 4242)
 
 width = 640
 height = 480
-camera = cv2.VideoCapture(1)
+camera = cv2.VideoCapture(0)
 # camera.set(cv2.CAP_PROP_FRAME_WIDTH, width)
 # camera.set(cv2.CAP_PROP_FRAME_HEIGHT, height)
 aruco = cv2.aruco

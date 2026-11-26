@@ -8,7 +8,7 @@ dus de camera moet hoger verder naar het midden ook is het waarschijnlijk te lan
 
 **let op!! steets klijnste afstand gemeeten**
 
-nog perspectief testen: is tien cm ook zoiets op de map, contact met Thijs over afspraken
+nog perspectief testen: is tien cm ook zoiets op de map, **contact met Thijs over afspraken**
 
 x=84,5cm y=-2cm : ID: 0 X: 607 Y: 47
 ![alt text](image-2.png)

@@ -14,7 +14,6 @@ dit werkt heel goed en was best priema op te zetten:
 
 ![alt text](image-11.png)
 
-er moet dus wel nog beter gemapt worden moet miss even testen of dit kan met codes op hoeken of dat we perspective mapping moeten doen 
+er moet dus wel nog beter gemapt worden moet miss even testen of dit kan met codes op hoeken en dan linear of dat we perspective mapping moeten doen 
 
-aandacht: comunicatie tussen godot en cam en robot argitectuur, perspectief, test snelheid met cam prototiepen, test codes of perspectief
-
+aandacht: perspectief, snelhijd, beamer en camera stand 
